@@ -12,7 +12,7 @@
 ---
 <div align="center">
 
-### 📩 **Automatic responder on [Telegram](https://t.me/dranerx) to purchase the full source code.**
+### 📩 **Automatic responder on [Telegram](https://t.me/drainerx) to purchase the full source code.**
 </div>
 
 ---
